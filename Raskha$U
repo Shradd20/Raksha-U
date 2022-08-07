@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="with=device-width,intial-scale=1.0">
+  <title> Raksha for you</title>
+  <link rel="stylesheet" href="task1styles.css">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+ </head>
+ <body>
+  <section class="header">
+  <nav>
+    <img src="logo.png">
+    <div class="n-link">
+    <ul>
+      <li><a href="" style="color:red;">Home</a></li>
+      <li><a href="">About Us</a></li>
+      <li><a href="">Technology Landscape</a></li>
+      <li><a href="">Self Help Tools</a></li>
+      <li><a href="">Claim Assist&nbsp;<i class="arrow down"></i></a></li>
+      <li><a href="">Login</a>&nbsp;<i class="arrow down"></i></li>
+      <li><a href="">Reach us</a></li>
+    </ul>
+    </div>
+  </nav>
+ <div class="text-box">
+<img style="float: right;" src="h.jpg">
+<p class="txt"> Services Empowered with <br>
+  Technology & Innovation<br>
+ <p class="mxt">Health Insurance <br>Ecosystem</p>
+</div>
+<div class="container">
+<a href="" class="btn"><i class="fa fa-play"></i>&nbsp;&nbsp;Watch a Video</a>
+<a href="" class="btn"><i class="fa fa-bars"></i>&nbsp;&nbsp;Chat with me</a><br>
+<p class="b"> Raksha4U: For end to end healthcare needs</p>
+</div>
+<br><br>
+<div class="c">
+<p class="c"> Online Claim Submission-</p>
+<p class="c">A new normal</p> 
+</div>
+<br>
+<div class="footer">
+<a href=""> Download the Raksha Mobile App</a>
+</div>
+
+  </section>
+ </body>
+ </html>
